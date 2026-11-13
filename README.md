@@ -16,7 +16,7 @@ C'est le monteur que j'utilise pour mes propres vidéos YouTube et mes shorts. T
 
 ## Étape 1 : télécharger le monteur
 
-[**Télécharger le monteur (fichier ZIP)**](https://github.com/TonyMarketing/monteur-ia/archive/refs/heads/main.zip)
+[**Télécharger le monteur (fichier ZIP)**](https://github.com/tony-rouge/monteur-ia/archive/refs/heads/main.zip)
 
 Double-cliquez sur le ZIP : un dossier `monteur-ia-main` apparaît. Rangez-le dans « Vidéos ».
 
