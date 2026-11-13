@@ -32,6 +32,10 @@ Collez ce message, puis suivez Claude :
 
 Claude installe les outils un par un et vous explique chaque étape. Vous cliquez sur « Autoriser » quand il le demande.
 
+Claude vous demandera deux clés. Voici les liens directs :
+- **ElevenLabs** : créez un compte, puis [https://elevenlabs.io/app/developers/api-keys](https://elevenlabs.io/app/developers/api-keys)
+- **Auphonic** : créez un compte, puis [https://auphonic.com/accounts/settings/#api-key](https://auphonic.com/accounts/settings/#api-key) (section « API Key »)
+
 Vos clés secrètes vont dans un fichier sur votre Mac. Ne les collez jamais dans la conversation.
 
 ## Étape 4 : monter une vidéo
