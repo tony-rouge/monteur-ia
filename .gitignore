@@ -1,0 +1,11 @@
+# Vos clés secrètes : jamais en ligne
+.env
+
+# Fichiers de travail de Claude et vos vidéos
+travail/
+rushes/*
+!rushes/LISEZ-MOI.txt
+livrables/*
+!livrables/LISEZ-MOI.txt
+
+.DS_Store
